@@ -43,6 +43,5 @@ public class MainActivity extends AppCompatActivity {
         itemTouchHelper.attachToRecyclerView(recyclerView);
         recyclerView.setAdapter(customRecyclerViewAdapter);
 
-
     }
 }
